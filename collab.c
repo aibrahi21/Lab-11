@@ -54,6 +54,11 @@ void amari9_asurka2(){
   printf("We learned there are many ways we can use and maipulate a git hub repository file\n");
 }
 
+void jshin91_aibrah27(){
+  printf("Name: Josiah Shin and AbdulIbrahim \n");
+  printf("Fact: Importance of commiting changes frequently and putting down descriptive comments. Helps by keep a history of the changes on the project, making it easier to go back and backtrack. \n");
+}
+
 int main() {
   printf(
       "This code has been created by the students of CS 211, Spring 2023!\n\n");
@@ -64,6 +69,7 @@ int main() {
   ppacho2_grohr2();
   dkhar3_nvaly2();
   amari9_asurka2();
+  jshin91_aibrah27();
 
   return 0;
 }
